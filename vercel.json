@@ -42,7 +42,7 @@
   "crons": [
     {
       "path": "/api/cron/daily-maintenance",
-      "schedule": "30 3 * * *" 
+      "schedule": "0 5 * * *"
     }
   ]
 }
