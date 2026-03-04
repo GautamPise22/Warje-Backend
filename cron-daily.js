@@ -1,4 +1,4 @@
-import { supabase } from "./config/supabase";
+import { supabase } from "./config/supabase.js";
 
 export default async function handler(req, res) {
     // 1. Security Check
